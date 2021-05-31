@@ -1,0 +1,7 @@
+opencv_python==4.1.0.25
+matplotlib==3.3.4
+blend_modes==2.1.0
+requests==2.22.0
+numpy==1.16.3
+adjustText==0.7.3
+Pillow==8.2.0
