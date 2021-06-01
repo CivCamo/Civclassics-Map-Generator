@@ -135,8 +135,6 @@ def removeWater(inputPath, outputPath):
     if "A" in img.getbands():
 
         # Just checking, and converting to rgba if it isn't already
-
-        savedAlpha = img.getchannel("A")
         img = img.convert("RGBA")
 
     # Then convert to HSV, as its way easier to work with
