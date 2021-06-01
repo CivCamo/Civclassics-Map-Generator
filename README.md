@@ -5,7 +5,7 @@
 
 ### How it works:
 
-This generator works by pulling the polygon data from [CCmap's](http://ccmap.github.io) github, claims can be submitted through the [Unified Map project's discord](https://discord.gg/hKJ9hQXB5S), also known as the IMC. Which then creates a few matplotlib fills, then exports, resizes, creates a few files, then overlays and merges other images (such as `ocean.png`, which you can customise the colour of, or even comment out!) onto the `basemap.png` file.
+This generator works by pulling the polygon data from [CCmap's](http://ccmap.github.io) github, claims can be submitted through the [Unified Map project's discord](https://discord.gg/hKJ9hQXB5S), also known as the UMP. Which then creates a few matplotlib fills, then exports, resizes, creates a few files, then overlays and merges other images (such as `ocean.png`, which you can customise the colour of, or even comment out!) onto the `basemap.png` file.
 
 *The `basemap.png` file and the script are the only files you need to generate a map.*
 
